@@ -4,7 +4,7 @@ window.onload = () => {
     const classLabel = document.getElementById('class');
 
     const marksman = {color: ['#4DA6FF','#323232'], classes: ['Scout','Hunter','Archer','Musketeer','Sniper','Blaster','Mercenary','Gunner']};
-    const brawler = {color: ['#FFB319','#323232'], classes: ['Warrior','Destroyer','Spearman','Ravager','Samurai','Fighter','Slayer','Berserker']};
+    const brawler = {color: ['#FF6619','#323232'], classes: ['Warrior','Destroyer','Spearman','Ravager','Samurai','Fighter','Slayer','Berserker']};
     const burst = {color: ['#8C19FF','#E7E7E7'], classes: ['Mage','Grenadier','Astronaut','Bomber','Illusionist','Necromancer','Wizard']};
     const assassin = {color: ['#FF4D4D','#323232'], classes: ['Thief','Ninja','Stalker','Trickster','Gambler','Hitman','Recon']};
     const support = {color: ['#E6E600','#323232'], classes: ['Priest','Bishop','Alchemist','Controller','Programmer','Medic']};
