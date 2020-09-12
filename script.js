@@ -4,11 +4,11 @@ window.onload = () => {
     const classLabel = document.getElementById('class');
 
     const marksman = {color: ['#4DA6FF','#323232'], classes: ['Scout','Hunter','Archer','Musketeer','Sniper','Blaster','Mercenary','Gunner']};
-    const brawler = {color: ['#FF6619','#323232'], classes: ['Warrior','Destroyer','Spearman','Ravager','Samurai','Fighter','Slayer','Berserker']};
+    const brawler = {color: ['#FF6619','#323232'], classes: ['Warrior','Destroyer','Spearman','Ravager','Samurai','Fighter','Slayer','Berserker','Charger']};
     const burst = {color: ['#8C19FF','#E7E7E7'], classes: ['Mage','Grenadier','Astronaut','Bomber','Illusionist','Necromancer','Wizard']};
-    const assassin = {color: ['#FF4D4D','#323232'], classes: ['Thief','Ninja','Stalker','Trickster','Gambler','Hitman','Recon']};
+    const assassin = {color: ['#FF4D4D','#323232'], classes: ['Thief','Ninja','Stalker','Trickster','Gambler','Hitman','Recon','Dancer']};
     const support = {color: ['#E6E600','#323232'], classes: ['Priest','Bishop','Alchemist','Controller','Programmer','Medic']};
-    const tank = {color: ['#008000','#E7E7E7'], classes: ['Defender','Guardian','Monk','Admiral','Juggernaut','Paladin','Knight']};
+    const tank = {color: ['#008000','#E7E7E7'], classes: ['Defender','Guardian','Monk','Admiral','Juggernaut','Paladin','Knight','Ruler']};
     const special = {color: ['#0000DC','#E7E7E7'], classes: ['Phantom','Jester','Cowboy','Turkey','Snowman','Santa','Firecracker','Wind Dancer','Gladiator','Bunny','Frost']};
     const gamepass = {color: ['#D2D2D2','#323232'], classes: ['Fairy','Chrono','Shroom','Rocketeer','Demon','Elementalist','Valkyrie','Duelist','Ghost','Beast','Reaper']};
 
