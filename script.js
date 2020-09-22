@@ -3,9 +3,9 @@ window.onload = () => {
     const button = document.getElementById('bu');
     const classLabel = document.getElementById('class');
 
-    const marksman = {color: ['#4DA6FF','#323232'], classes: ['Scout','Hunter','Archer','Musketeer','Sniper','Blaster','Mercenary','Gunner']};
+    const marksman = {color: ['#4DA6FF','#323232'], classes: ['Scout','Hunter','Archer','Musketeer','Sniper','Blaster','Mercenary','Gunner','Ranger']};
     const brawler = {color: ['#FF6619','#323232'], classes: ['Warrior','Destroyer','Spearman','Ravager','Samurai','Fighter','Slayer','Berserker','Charger']};
-    const burst = {color: ['#8C19FF','#E7E7E7'], classes: ['Mage','Grenadier','Astronaut','Bomber','Illusionist','Necromancer','Wizard']};
+    const burst = {color: ['#8C19FF','#E7E7E7'], classes: ['Mage','Grenadier','Astronaut','Bomber','Illusionist','Necromancer','Wizard','Druid','Sorcerer']};
     const assassin = {color: ['#FF4D4D','#323232'], classes: ['Thief','Ninja','Stalker','Trickster','Gambler','Hitman','Recon','Dancer']};
     const support = {color: ['#E6E600','#323232'], classes: ['Priest','Bishop','Alchemist','Controller','Programmer','Medic']};
     const tank = {color: ['#008000','#E7E7E7'], classes: ['Defender','Guardian','Monk','Admiral','Juggernaut','Paladin','Knight','Ruler']};
